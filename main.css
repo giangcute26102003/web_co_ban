@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#tong{
+    width: 100%;
+    height: 700px;
+    background: black;
+}
+#tren{
+    width: 100%;
+    height: 20%;
+    background: pink;
+}
+#giua{
+    width: 100%;
+    height: 70%;
+    background: red;
+}
+#duoi{
+    width: 100%;
+    height: 10%;
+    background: purple;
+}
